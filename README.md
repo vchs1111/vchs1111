@@ -18,7 +18,7 @@
 
 ---
 
-### 🔥 Что я умею (кровавые печати)
+### 🔥 Что я умею
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Discord%20Bot-8B0000?style=for-the-badge&logo=discord&logoColor=white&labelColor=1A0A0A" />
