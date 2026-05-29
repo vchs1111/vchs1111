@@ -43,8 +43,17 @@
 ### 💀 Призвать меня 💀
 
 <p align="center">
-  <a href="https://t.me/darkshadowvampir"><img src="https://img.shields.io/badge/Telegram-8B0000?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1A0A0A" /></a>
-  <a href="mailto:ssazanyc@gmail.com"><img src="https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A0A0A" /></a>
+  <a href="https://t.me/darkshadowvampir">
+    <img src="https://img.shields.io/badge/Telegram-8B0000?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1A0A0A" />
+  </a>
+  <code style="color:#FF0000">@darkshadowvampir</code>
+  
+  <span style="margin: 0 20px"></span>
+  
+  <a href="mailto:ssazanyc@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A0A0A" />
+  </a>
+  <code style="color:#FF0000">ssazanyc@gmail.com</code>
 </p>
 
 ---
