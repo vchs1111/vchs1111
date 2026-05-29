@@ -10,11 +10,11 @@
 
 | Категория | Технологии |
 |-----------|-------------|
-| 🦇 **Боты** | `Discord.js` (слуги тьмы) |
+| 🦇 **Боты** | `Discord.js` |
 | 🔮 **Парсинг** | `BeautifulSoup` `Selenium` `Requests` |
 | ⚰️ **Игры** | `Pygame` `Canvas API` |
 | 🕷️ **Безопасность** | `Rate Limiting` `CORS` `JWT` |
-| 🖤 **Серверы** | `Node.js` `Express` (алтари тьмы) |
+| 🖤 **Серверы** | `Node.js` `Express` |
 
 ---
 
