@@ -31,15 +31,6 @@
 
 ---
 
-### 📊 Кровавая статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vchs1111&show_icons=true&theme=dark&hide_border=true&bg_color=0A0000&icon_color=FF0000&title_color=FF0000&text_color=880000" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vchs1111&layout=compact&theme=dark&hide_border=true&bg_color=0A0000&title_color=FF0000&text_color=880000" width="48%" />
-</p>
-
----
-
 ### 💀 Призвать меня 💀
 
 <table align="center">
