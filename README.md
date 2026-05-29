@@ -46,20 +46,13 @@
   <a href="https://t.me/darkshadowvampir">
     <img src="https://img.shields.io/badge/Telegram-8B0000?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1A0A0A" />
   </a>
-  <code style="color:#FF0000">@darkshadowvampir</code>
+  <strong><code style="color:#FF4444; font-size:1.2em;">&nbsp; @darkshadowvampir &nbsp;</code></strong>
   
-  <span style="margin: 0 20px"></span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
   <a href="mailto:ssazanyc@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A0A0A" />
   </a>
-  <code style="color:#FF0000">ssazanyc@gmail.com</code>
+  <strong><code style="color:#FF4444; font-size:1.2em;">&nbsp; ssazanyc@gmail.com &nbsp;</code></strong>
 </p>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer" />
-</div>
-
 <!-- 🩸 Кровавый след 🩸 -->
