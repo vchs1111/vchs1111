@@ -10,11 +10,11 @@
 
 | Категория | Технологии |
 |-----------|-------------|
-| 🤖 **Боты** | `Discord.js` `Telegram API` `aiogram` |
+| 🤖 **Боты** | `Discord.js` |
 | 🔍 **Парсинг** | `BeautifulSoup` `Selenium` `Requests` |
 | 🎮 **Игры** | `Pygame` `Canvas API` |
 | 🛡️ **Безопасность** | `Rate Limiting` `CORS` `JWT` |
-| ⚙️ **Серверы** | `Node.js` `Express` `Django` |
+| ⚙️ **Серверы** | `Node.js` `Express` |
 
 ---
 
@@ -22,7 +22,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Discord%20Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   <img src="https://img.shields.io/badge/-Parser-FF6B00?style=for-the-badge&logo=python&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/-Game%20Dev-FF4D4D?style=for-the-badge&logo=unity&logoColor=white" />
@@ -44,8 +43,8 @@
 ### 💬 Связаться со мной
 
 <p align="center">
-  <a href="https://t.me/vchs1111"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:vchs1111@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/darkshadowvampir"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:ssazanyc@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
