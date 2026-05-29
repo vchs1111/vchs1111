@@ -42,18 +42,23 @@
 
 ### 💀 Призвать меня 💀
 
-<p align="center">
-  <a href="https://t.me/darkshadowvampir">
-    <img src="https://img.shields.io/badge/Telegram-8B0000?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1A0A0A" />
-  </a>
-  <strong><code style="color:#FF4444;"> @darkshadowvampir </code></strong>
-
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-
-  <a href="mailto:ssazanyc@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A0A0A" />
-  </a>
-  <strong><code style="color:#FF4444;"> ssazanyc@gmail.com </code></strong>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://t.me/darkshadowvampir">
+        <img src="https://img.shields.io/badge/Telegram-8B0000?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1A0A0A" />
+      </a>
+      <br/>
+      <strong><code style="color:#FF4444;">@darkshadowvampir</code></strong>
+    </td>
+    <td align="center">
+      <a href="mailto:ssazanyc@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A0A0A" />
+      </a>
+      <br/>
+      <strong><code style="color:#FF4444;">ssazanyc@gmail.com</code></strong>
+    </td>
+  </tr>
+</table>
 
 <!-- 🩸 Кровавый след 🩸 -->
