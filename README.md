@@ -1,54 +1,44 @@
-<div align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FF88&center=true&vCenter=true&width=600&lines=Python+%26+JavaScript+Developer;Bot+Maker+%7C+Parser+Master;Game+Creator+%7C+Security+Expert;Freelancer+%7C+Code+Fixer" alt="Typing SVG" />
-  
-</div>
-
----
-
-### 🧠 Мои навыки
-
-| Категория | Технологии |
-|-----------|-------------|
-| 🤖 **Боты** | `Discord.js` |
-| 🔍 **Парсинг** | `BeautifulSoup` `Selenium` `Requests` |
-| 🎮 **Игры** | `Pygame` `Canvas API` |
-| 🛡️ **Безопасность** | `Rate Limiting` `CORS` `JWT` |
-| ⚙️ **Серверы** | `Node.js` `Express` |
-
----
-
-### 🔥 Что я умею
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Discord%20Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Parser-FF6B00?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="50" />
+</p>
+
+---
+
+### 🩸 七転八起 (Fall seven times, stand up eight)
+
+| 卐 カテゴリー | 卐 技術 |
+|--------------|---------|
+| 🤖 **暗殺ボット** | `Discord.js` `Blood Magic` |
+| 🔍 **血のパーサー** | `BeautifulSoup` `Selenium` `Requests` |
+| 🎮 **地獄のゲーム** | `Pygame` `Canvas API` |
+| 🛡️ **闇のセキュリティ** | `Rate Limiting` `CORS` `JWT` |
+| ⚙️ **悪魔のサーバー** | `Node.js` `Express` |
+
+---
+
+### 🔥 業火の能力
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-DISCORD%20BOT-FF0000?style=for-the-badge&logo=discord&logoColor=black&labelColor=000000" />
+  <img src="https://img.shields.io/badge/-BLOOD%20PARSER-FF0000?style=for-the-badge&logo=python&logoColor=black&labelColor=000000" />
   <br/>
-  <img src="https://img.shields.io/badge/-Game%20Dev-FF4D4D?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/-API%20Security-009688?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Code%20Fix-9C27B0?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HELL%20GAMES-FF0000?style=for-the-badge&logo=unity&logoColor=black&labelColor=000000" />
+  <img src="https://img.shields.io/badge/-DARK%20SECURITY-FF0000?style=for-the-badge&logo=shield&logoColor=black&labelColor=000000" />
+  <img src="https://img.shields.io/badge/-CODE%20EXORCISM-FF0000?style=for-the-badge&logo=code&logoColor=black&labelColor=000000" />
 </p>
 
 ---
 
-### 📊 Моя активность
+### 📊 血の統計
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vchs1111&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=00FF88&title_color=00FF88" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vchs1111&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vchs1111&show_icons=true&theme=dark&hide_border=true&bg_color=0a0000&icon_color=FF0000&title_color=FF0000&text_color=660000" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vchs1111&layout=compact&theme=dark&hide_border=true&bg_color=0a0000&title_color=FF0000&text_color=660000" width="48%" />
 </p>
 
 ---
 
-### 💬 Связаться со мной
-
-<p align="center">
-  <a href="https://t.me/darkshadowvampir"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:ssazanyc@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=100&section=footer" />
-</div>
+### 💀 血の契約
